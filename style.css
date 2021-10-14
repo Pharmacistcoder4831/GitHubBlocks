@@ -1,0 +1,33 @@
+img{
+    width: 250px;
+    height: 250px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+h1{
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+}
+#first{
+    background-color: aqua;
+    display: flex;
+    min-height: 200px;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+#second{
+    background-color: lightpink;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+
+}
+#third{
+    background-color: linen;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
